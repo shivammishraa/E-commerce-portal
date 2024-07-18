@@ -1,0 +1,16 @@
+.image-size{
+    max-height: 300px;
+    width: 100%;
+    object-fit: contain;
+}
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
